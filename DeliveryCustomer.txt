@@ -1,0 +1,267 @@
+
+			DETAILS FOR DELIVERY CUSTOMER
+==================================================================================================
+
+
+	 Order # 1				 FOR : NUR SYAFIATUN NADHIRAH BINTI AZMAN
+==================================================================================================
+	 CUSTOMER NAME                                    : NUR SYAFIATUN NADHIRAH BINTI AZMAN
+	 SERVICES [DELIVERY | PICKUP]                     : DELIVERY
+	 HOME ADDRESS                                     : TAMAN JOHOR JAYA, JOHOR BAHRU, JOHOR
+	 PHONE NUMBER                                     : 0138842610
+	 PAYMENT METHOD [CASH | QRSCAN | TRANSFER]        : TRANSFER
+
+--------------------------------------------------------------------------------------------------
+	 EDIT ORDER                                               DELETE   0 BUN.
+
+	 TOTAL ORDER PASTRY          (BEFORE EDIT)                         : 6
+	 TYPE OF PASTRY                                                    : BUN
+
+	 TOTAL ORDER PASTRY          (AFTER EDIT)                          : 6
+	 TOTAL ORDER FOR CHOCOLATE BUN                                     : 2
+	 TOTAL ORDER FOR STRAWBERRY BUN                                    : 4
+	 TYPE OF PASTRY                                                    : BUN
+
+	 TOTAL ORDER PASTRY          (AFTER EDIT)                          : 6
+	 TOTAL ORDER FOR CHOCOLATE BUN                                     : 2
+	 TOTAL ORDER FOR STRAWBERRY BUN                                    : 4
+--------------------------------------------------------------------------------------------------
+
+
+	 Order # 4				 FOR : NURUL JANNATUL AYRA BINTI SUFFIAN
+==================================================================================================
+	 CUSTOMER NAME                                    : NURUL JANNATUL AYRA BINTI SUFFIAN
+	 SERVICES [DELIVERY | PICKUP]                     : DELIVERY
+	 HOME ADDRESS                                     : TAMAN TEBRAU, JOHOR BAHRU, JOHOR
+	 PHONE NUMBER                                     : 0194465243
+	 PAYMENT METHOD [CASH | QRSCAN | TRANSFER]        : TRANSFER
+
+--------------------------------------------------------------------------------------------------
+	 EDIT ORDER                                               DELETE   0 BUN.
+
+	 TOTAL ORDER PASTRY          (BEFORE EDIT)                         : 5
+	 TYPE OF PASTRY                                                    : BUN
+
+	 TOTAL ORDER PASTRY          (AFTER EDIT)                          : 5
+	 TOTAL ORDER FOR CHOCOLATE BUN                                     : 1
+	 TOTAL ORDER FOR STRAWBERRY BUN                                    : 4
+	 TYPE OF PASTRY                                                    : BUN
+
+	 TOTAL ORDER PASTRY          (AFTER EDIT)                          : 5
+	 TOTAL ORDER FOR CHOCOLATE BUN                                     : 1
+	 TOTAL ORDER FOR STRAWBERRY BUN                                    : 4
+--------------------------------------------------------------------------------------------------
+
+
+	 Order # 6				 FOR : NUR DAMIA BINTI AHMAD
+==================================================================================================
+	 CUSTOMER NAME                                    : NUR DAMIA BINTI AHMAD
+	 SERVICES [DELIVERY | PICKUP]                     : DELIVERY
+	 HOME ADDRESS                                     : TAMAN BESTARI, SERI ALAM, JOHOR
+	 PHONE NUMBER                                     : 0127890622
+	 PAYMENT METHOD [CASH | QRSCAN | TRANSFER]        : TRANSFER
+
+--------------------------------------------------------------------------------------------------
+	 EDIT ORDER                                               DELETE 1 CAKE.
+
+	 TOTAL ORDER PASTRY          (BEFORE EDIT)                         : 4
+	 TYPE OF PASTRY                                                    : CAKE
+
+	 TOTAL ORDER PASTRY          (AFTER EDIT)                          : 3
+	 TOTAL ORDER FOR WHOLE CAKE                                        : 1
+	 TOTAL ORDER FOR SLICES                                            : 2
+	 CAKE FLAVOURS                                                     : Chocolate Flavour
+	 TYPE OF PASTRY                                                    : CAKE
+
+	 TOTAL ORDER PASTRY          (AFTER EDIT)                          : 3
+	 TOTAL ORDER FOR WHOLE CAKE                                        : 1
+	 TOTAL ORDER FOR SLICES                                            : 2
+	 CAKE FLAVOURS                                                     : Chocolate Flavour
+--------------------------------------------------------------------------------------------------
+
+
+	 Order # 8				 FOR : MUHAMAD FARIZ BIN QAYUM
+==================================================================================================
+	 CUSTOMER NAME                                    : MUHAMAD FARIZ BIN QAYUM
+	 SERVICES [DELIVERY | PICKUP]                     : DELIVERY
+	 HOME ADDRESS                                     : TAMAN JOHOR JAYA, JOHOR BAHRU, JOHOR
+	 PHONE NUMBER                                     : 0167245899
+	 PAYMENT METHOD [CASH | QRSCAN | TRANSFER]        : TRANSFER
+
+--------------------------------------------------------------------------------------------------
+	 EDIT ORDER                                               DELETE   0 BUN.
+
+	 TOTAL ORDER PASTRY          (BEFORE EDIT)                         : 3
+	 TYPE OF PASTRY                                                    : BUN
+
+	 TOTAL ORDER PASTRY          (AFTER EDIT)                          : 3
+	 TOTAL ORDER FOR CHOCOLATE BUN                                     : 2
+	 TOTAL ORDER FOR STRAWBERRY BUN                                    : 1
+	 TYPE OF PASTRY                                                    : BUN
+
+	 TOTAL ORDER PASTRY          (AFTER EDIT)                          : 3
+	 TOTAL ORDER FOR CHOCOLATE BUN                                     : 2
+	 TOTAL ORDER FOR STRAWBERRY BUN                                    : 1
+--------------------------------------------------------------------------------------------------
+
+
+	 Order # 10				 FOR : NUR HASANATUN NASUHA BINTI MD AZLEE
+==================================================================================================
+	 CUSTOMER NAME                                    : NUR HASANATUN NASUHA BINTI MD AZLEE
+	 SERVICES [DELIVERY | PICKUP]                     : DELIVERY
+	 HOME ADDRESS                                     : TAMAN DAMAI JAYA , PASIR GUDANG, JOHOR
+	 PHONE NUMBER                                     : 01133458141
+	 PAYMENT METHOD [CASH | QRSCAN | TRANSFER]        : TRANSFER
+
+--------------------------------------------------------------------------------------------------
+	 EDIT ORDER                                               DELETE   0 BUN.
+
+	 TOTAL ORDER PASTRY          (BEFORE EDIT)                         : 5
+	 TYPE OF PASTRY                                                    : BUN
+
+	 TOTAL ORDER PASTRY          (AFTER EDIT)                          : 5
+	 TOTAL ORDER FOR CHOCOLATE BUN                                     : 1
+	 TOTAL ORDER FOR STRAWBERRY BUN                                    : 4
+	 TYPE OF PASTRY                                                    : BUN
+
+	 TOTAL ORDER PASTRY          (AFTER EDIT)                          : 5
+	 TOTAL ORDER FOR CHOCOLATE BUN                                     : 1
+	 TOTAL ORDER FOR STRAWBERRY BUN                                    : 4
+--------------------------------------------------------------------------------------------------
+
+
+	 Order # 13				 FOR : MUHAMAD HASANUL WAZIF BIN MD AZLEE
+==================================================================================================
+	 CUSTOMER NAME                                    : MUHAMAD HASANUL WAZIF BIN MD AZLEE
+	 SERVICES [DELIVERY | PICKUP]                     : DELIVERY
+	 HOME ADDRESS                                     : TAMAN UNIVERSITI, JOHOR BAHRU, JOHOR
+	 PHONE NUMBER                                     : 0142637745
+	 PAYMENT METHOD [CASH | QRSCAN | TRANSFER]        : CASH
+
+--------------------------------------------------------------------------------------------------
+	 EDIT ORDER                                               DELETE   0 BUN.
+
+	 TOTAL ORDER PASTRY          (BEFORE EDIT)                         : 6
+	 TYPE OF PASTRY                                                    : BUN
+
+	 TOTAL ORDER PASTRY          (AFTER EDIT)                          : 6
+	 TOTAL ORDER FOR CHOCOLATE BUN                                     : 2
+	 TOTAL ORDER FOR STRAWBERRY BUN                                    : 4
+	 TYPE OF PASTRY                                                    : BUN
+
+	 TOTAL ORDER PASTRY          (AFTER EDIT)                          : 6
+	 TOTAL ORDER FOR CHOCOLATE BUN                                     : 2
+	 TOTAL ORDER FOR STRAWBERRY BUN                                    : 4
+--------------------------------------------------------------------------------------------------
+
+
+	 Order # 15				 FOR : NUR AFINA BINTI ZAMZURE
+==================================================================================================
+	 CUSTOMER NAME                                    : NUR AFINA BINTI ZAMZURE
+	 SERVICES [DELIVERY | PICKUP]                     : DELIVERY
+	 HOME ADDRESS                                     : TAMAN SRI SAUJANA, JOHOR BAHRU, JOHOR
+	 PHONE NUMBER                                     : 01159390334
+	 PAYMENT METHOD [CASH | QRSCAN | TRANSFER]        : TRANSFER
+
+--------------------------------------------------------------------------------------------------
+	 EDIT ORDER                                               DELETE   0 BUN.
+
+	 TOTAL ORDER PASTRY          (BEFORE EDIT)                         : 4
+	 TYPE OF PASTRY                                                    : BUN
+
+	 TOTAL ORDER PASTRY          (AFTER EDIT)                          : 4
+	 TOTAL ORDER FOR CHOCOLATE BUN                                     : 1
+	 TOTAL ORDER FOR STRAWBERRY BUN                                    : 3
+	 TYPE OF PASTRY                                                    : BUN
+
+	 TOTAL ORDER PASTRY          (AFTER EDIT)                          : 4
+	 TOTAL ORDER FOR CHOCOLATE BUN                                     : 1
+	 TOTAL ORDER FOR STRAWBERRY BUN                                    : 3
+--------------------------------------------------------------------------------------------------
+
+
+	 Order # 18				 FOR : ALZIANAH BINT HAMID
+==================================================================================================
+	 CUSTOMER NAME                                    : ALZIANAH BINT HAMID
+	 SERVICES [DELIVERY | PICKUP]                     : DELIVERY
+	 HOME ADDRESS                                     : DESARU, JOHOR BAHRU, JOHOR
+	 PHONE NUMBER                                     : 01125748863
+	 PAYMENT METHOD [CASH | QRSCAN | TRANSFER]        : CASH
+
+--------------------------------------------------------------------------------------------------
+	 EDIT ORDER                                               DELETE   0 BUN.
+
+	 TOTAL ORDER PASTRY          (BEFORE EDIT)                         : 3
+	 TYPE OF PASTRY                                                    : BUN
+
+	 TOTAL ORDER PASTRY          (AFTER EDIT)                          : 3
+	 TOTAL ORDER FOR CHOCOLATE BUN                                     : 1
+	 TOTAL ORDER FOR STRAWBERRY BUN                                    : 2
+	 TYPE OF PASTRY                                                    : BUN
+
+	 TOTAL ORDER PASTRY          (AFTER EDIT)                          : 3
+	 TOTAL ORDER FOR CHOCOLATE BUN                                     : 1
+	 TOTAL ORDER FOR STRAWBERRY BUN                                    : 2
+--------------------------------------------------------------------------------------------------
+
+
+	 Order # 19				 FOR : NURIN KHAIRUNNISA BINTI KHAIRUL
+==================================================================================================
+	 CUSTOMER NAME                                    : NURIN KHAIRUNNISA BINTI KHAIRUL
+	 SERVICES [DELIVERY | PICKUP]                     : DELIVERY
+	 HOME ADDRESS                                     : TAMAN SRI SAUJANA, JOHOR BAHRU, JOHOR
+	 PHONE NUMBER                                     : 0137300161
+	 PAYMENT METHOD [CASH | QRSCAN | TRANSFER]        : CASH
+
+--------------------------------------------------------------------------------------------------
+	 EDIT ORDER                                               DELETE   0 BUN.
+
+	 TOTAL ORDER PASTRY          (BEFORE EDIT)                         : 7
+	 TYPE OF PASTRY                                                    : BUN
+
+	 TOTAL ORDER PASTRY          (AFTER EDIT)                          : 7
+	 TOTAL ORDER FOR CHOCOLATE BUN                                     : 3
+	 TOTAL ORDER FOR STRAWBERRY BUN                                    : 4
+	 TYPE OF PASTRY                                                    : BUN
+
+	 TOTAL ORDER PASTRY          (AFTER EDIT)                          : 7
+	 TOTAL ORDER FOR CHOCOLATE BUN                                     : 3
+	 TOTAL ORDER FOR STRAWBERRY BUN                                    : 4
+--------------------------------------------------------------------------------------------------
+
+
+	 Order # 20				 FOR : NUR AINA NATASHA BINTI RUSLIEZAN
+==================================================================================================
+	 CUSTOMER NAME                                    : NUR AINA NATASHA BINTI RUSLIEZAN
+	 SERVICES [DELIVERY | PICKUP]                     : DELIVERY
+	 HOME ADDRESS                                     : TAMAN KEMPAS, JOHOR BAHRU, JOHOR
+	 PHONE NUMBER                                     : 0193745567
+	 PAYMENT METHOD [CASH | QRSCAN | TRANSFER]        : CASH
+
+--------------------------------------------------------------------------------------------------
+	 EDIT ORDER                                               DELETE   2 BUN.
+
+	 TOTAL ORDER PASTRY          (BEFORE EDIT)                         : 8
+	 TYPE OF PASTRY                                                    : BUN
+
+	 TOTAL ORDER PASTRY          (AFTER EDIT)                          : 6
+	 TOTAL ORDER FOR CHOCOLATE BUN                                     : 2
+	 TOTAL ORDER FOR STRAWBERRY BUN                                    : 4
+	 TYPE OF PASTRY                                                    : BUN
+
+	 TOTAL ORDER PASTRY          (AFTER EDIT)                          : 6
+	 TOTAL ORDER FOR CHOCOLATE BUN                                     : 2
+	 TOTAL ORDER FOR STRAWBERRY BUN                                    : 4
+--------------------------------------------------------------------------------------------------
+==================================================================================================
+
+				 DAILY REPORT FOR STAFF RECEIPT
+==================================================================================================
+
+	 TOTAL CAKE SOLD                                                 : 29
+	 TOTAL BUN SOLD                                                  : 49
+
+--------------------------------------------------------------------------------------------------
+	 TOTAL PRICES                                                    : RM 527.88
+	 CUSTOMER NURIN KHAIRUNNISA BINTI KHAIRUL WITH HIGHEST COUNT OF ORDERS 7 BUN ODERS.
+--------------------------------------------------------------------------------------------------

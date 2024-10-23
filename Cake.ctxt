@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Cake
+comment1.params=type\ quantity\ wholeCake\ slices\ flavours
+comment1.target=Cake(java.lang.String,\ int,\ int,\ int,\ int)
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=int\ getFlavours()
+comment3.params=
+comment3.target=int\ getwholeCake()
+comment4.params=
+comment4.target=int\ getslices()
+comment5.params=flavours
+comment5.target=void\ setFlavor(int)
+comment6.params=wholeCake
+comment6.target=void\ setwholeCake(int)
+comment7.params=slices
+comment7.target=void\ setslices(int)
+comment8.params=
+comment8.target=double\ total()
+comment9.params=cakeFlavours
+comment9.target=java.lang.String\ flavour(int)
+numComments=11
